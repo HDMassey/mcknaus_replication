@@ -1,0 +1,11 @@
+﻿temp/
+*.Rhistory
+*.RData
+*.Rproj.user/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+.DS_Store
+Thumbs.db
