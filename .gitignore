@@ -9,3 +9,7 @@
 *.synctex.gz
 .DS_Store
 Thumbs.db
+
+input/1203_ALMP_Data_E_v1.0.0.csv
+input/swissubase_1203_1_0.zip
+temp/
